@@ -1,3 +1,3 @@
 # Hello-World
 Sample project to learn
-Updating the initial document to check
+second edit to merge
